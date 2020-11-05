@@ -10,7 +10,7 @@
 
 1. JavaScript(ES6+);
 2. React, Redux, Redux Toolkit, Forms, React (hooks);
-3. HTML5; CSS3;
+3. HTML5, CSS3, SASS;
 4. Git, Github, Babel, Webpack, Gulp;
 5. Github Action;
 6. Jest;
