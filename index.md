@@ -24,8 +24,6 @@
 
 # Опыт
 
-В процессе обучения завершил несколько пректов
-
 1. Task Manager.  
     [Репозиторий на GitHub](https://github.com/gorushkin/taskmanager)  
     [Веб-версия проекта](https://taskmanager-gav.herokuapp.com/)
